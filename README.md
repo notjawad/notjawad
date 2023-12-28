@@ -3,36 +3,15 @@
   <img src="https://files.catbox.moe/4c3i63.jpg" width="200" height="200">
 </div>
 
-<div align="center">
-  <h4> Languages I've played with</h4> <!-- https://github.com/badges/shields -->
-  <img src="https://img.shields.io/badge/-Python-brown?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-CSS-yellow?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-JS-green?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-TS-25c492?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/-Bash-indigo?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=black">
-</div>
+
+<h4 align="center">My Skills</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flask,js,react,ts,vercel,html,css,tailwind,next,aws,bots,firebase,mongodb" />
+  </a>
+</p>
 
 <hr>
-
-<h3>🌎 Bio</h3>
-
-```python
-class Jawad:
-    skills = ["Data Structures", "Algorithms", "Databases", "REST APIs", "Bots"]
-
-    def __init__(self, interests, location, experience_years, email, bio):
-        self.interests = interests
-        self.location = location
-        self.experience_years = experience_years
-        self.email = email
-        self.bio = bio
-
-    @property
-    def currently_learning(self):
-        return "Operating Systems"
-```
 
 ```
 notjawad@github
@@ -42,6 +21,8 @@ notjawad@github
 │ Uptime    ~  24 years              │
 └────────────────────────────────────┘
 ```
+
+
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=evrynoiseatonce&show_user=header&width=1000)
 
 <div>
