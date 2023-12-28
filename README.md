@@ -22,8 +22,12 @@
 class Jawad:
     skills = ["Data Structures", "Algorithms", "Databases", "REST APIs"]
 
-    def __init__(self, pronouns):
-        self.pronouns = pronouns
+    def __init__(self, interests, location, experience_years, email, bio):
+        self.interests = interests
+        self.location = location
+        self.experience_years = experience_years
+        self.email = email
+        self.bio = bio
 
     @property
     def currently_learning(self):
