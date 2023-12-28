@@ -20,7 +20,7 @@
 
 ```python
 class Jawad:
-    skills = ["Data Structures", "Algorithms", "Databases", "REST APIs"]
+    skills = ["Data Structures", "Algorithms", "Databases", "REST APIs", "Bots"]
 
     def __init__(self, interests, location, experience_years, email, bio):
         self.interests = interests
