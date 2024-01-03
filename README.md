@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://files.catbox.moe/4c3i63.jpg" width="200" height="200">
-</div>
+</div> -->
 
 
 <h4 align="center">My Skills</h4>
